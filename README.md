@@ -28,7 +28,7 @@ La tecnologia de reconeixement òptic de caràcters, són sistemes que a partir 
 
     El seu programari escaneja la imatge píxel a píxel, buscant els caràcters identificant-los a través de l'anàlisi de les seves característiques. Pot analitzar elements de la imatge com per exemple taules o imatges.
     
-![Funcionament de l'_OCR](https://view.genial.ly/627f72f809d310001893fd38)
+![Funcionament de l'_OCR](https://raw.githubusercontent.com/MercheP/PAC3_Manovich_Reloaded/main/imagen_6.jpg)
 
 - #### **Quines aplicacions té l'_OCR?_**
 
