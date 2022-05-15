@@ -47,7 +47,7 @@ _Scratch_ és una aplicació desenvolupada pel MIT (Institut Tecnològic de Mass
     Podríem definir els usos d'aquesta aplicació a nivell programari, enumerant l'extensa llista d'accions disponibles en la seva interfície, però si podem destacar alguna cosa d'aquesta aplicació, és el seu ús didàctic i col·laboratiu. _Scratch_ forma part de les noves tecnologies que permet a les noves generacions a preparar-se per a la **Societat de Creativitat**, amb noves formis d'aprenentatge més motivadors com per exemple les basades en l'espiral del pensament creatiu: Imaginar – Crear – Jugar – Compartir – Reflexionar. 
     Segons un dels percussors d'aquesta metodologia Mitchel Resnick:
     
-> "Els estudiants estableixen els objectius de disseny per als seus projectes i empren tècniques de resolució de problemes per a corregir errors en els programes. Ells col·laboren, cooperen, coensenyen. Ells aprecien el poder que _Scratch_ els dona per a crear les seves pròpies versions de jocs i animacions."
+> _"Els estudiants estableixen els objectius de disseny per als seus projectes i empren tècniques de resolució de problemes per a corregir errors en els programes. Ells col·laboren, cooperen, coensenyen. Ells aprecien el poder que _Scratch_ els dona per a crear les seves pròpies versions de jocs i animacions."_
 
 
 ![Nens aprenent](https://images.pexels.com/photos/10643463/pexels-photo-10643463.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
